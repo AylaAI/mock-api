@@ -8,7 +8,7 @@
             "phone": "1-770-736-8031 x56442",
             "website": "hildegard.org",
             "preferences": {
-                "prefence1": true,
+                "preference1": true,
                 "preference2": ["valid1","valid2"],
                 "preference3": "valid3"
             }
